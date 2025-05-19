@@ -28,3 +28,19 @@ I believe in learning by doing and sharing. As I explore the world of Generative
 Feel free to explore, learn, and contribute. Let's grow together in this exciting field! 🌱
 
 _"The best way to learn is to teach, and the best way to teach is to learn."_
+
+## How to Run the Notebooks 📝
+
+To run the Jupyter notebooks in this repository:
+
+1. Make sure you have Python installed on your system
+2. Open your terminal/command prompt
+3. Navigate to this repository's directory
+4. Run the following command:
+   ```bash
+   python -m notebook
+   ```
+5. This will start the Jupyter server and open the interface in your default web browser
+6. Navigate to the notebook you want to run and start exploring!
+
+Happy coding! 💻
